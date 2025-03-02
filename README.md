@@ -1,3 +1,8 @@
+- **Rify**（ **R**edef**i**ne + modi**fy**）
+  - 在AI浪潮下，通过AI2.0**重新定义**技术、产品和业务，支持灵活**修改迭代**
+
+
+
 ![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
 
 <p align="center">
